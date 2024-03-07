@@ -17,4 +17,16 @@
 ---
 
 > [!IMPORTANT]
-> That's it
+> Purple
+
+> [!NOTE]
+> Blue
+
+> [!TIP]
+> Green
+
+> [!WARNING]
+> Yellow
+
+> [!CAUTION]
+> Red

@@ -13,20 +13,3 @@
 #### A few things that I'm learning  / using :
 
 [![learning](https://skillicons.dev/icons?i=bash,powershell,py,rust,html,css,astro,tailwind,md,docker,elasticsearch,postgres,mysql,linux)](https://skillicons.dev)
-
----
-
-> [!IMPORTANT]
-> Purple
-
-> [!NOTE]
-> Blue
-
-> [!TIP]
-> Green
-
-> [!WARNING]
-> Yellow
-
-> [!CAUTION]
-> Red

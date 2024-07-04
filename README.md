@@ -12,7 +12,7 @@
 
 #### A few things that I'm learning  / using :
 
-[![learning](https://skillicons.dev/icons?i=bash,powershell,py,rust,md,docker,elasticsearch,postgres,mysql,linux)](https://skillicons.dev)
+[![learning](https://skillicons.dev/icons?i=bash,powershell,py,rust,md,docker,postgres,mysql,linux)](https://skillicons.dev)
 
 #### A few things I would like to learn more about :
 

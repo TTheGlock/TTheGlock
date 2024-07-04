@@ -16,4 +16,4 @@
 
 #### A few things I would like to learn more about :
 
-[![learning](https://skillicons.dev/icons?i=react,js,html,css,astro,tailwind,elasticsearch)](https://skillicons.dev)
+[![learning](https://skillicons.dev/icons?i=react,js,ts,html,css,astro,tailwind,elasticsearch)](https://skillicons.dev)

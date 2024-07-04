@@ -12,4 +12,8 @@
 
 #### A few things that I'm learning  / using :
 
-[![learning](https://skillicons.dev/icons?i=bash,powershell,py,rust,html,css,astro,tailwind,md,docker,elasticsearch,postgres,mysql,linux)](https://skillicons.dev)
+[![learning](https://skillicons.dev/icons?i=bash,powershell,py,rust,md,docker,elasticsearch,postgres,mysql,linux)](https://skillicons.dev)
+
+#### A few things I would like to learn more about :
+
+[![learning](https://skillicons.dev/icons?i=react,js,html,css,astro,tailwind,elasticsearch)](https://skillicons.dev)

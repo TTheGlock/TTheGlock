@@ -3,7 +3,8 @@ hi
 ---
 
 #### About me
-- 🇫🇷 French Student (IUT Châtellerault - BUT "Réseaux et Télécommunications")
+
+- 🇫🇷 French Student (ENSIBS - Cybersecurity & Data Science Engineering Degree)
 - Doing an apprenticeship here 👉 [ANSSI](https://cyber.gouv.fr/) (Paris)
 - Loves video-games, computer stuff
 - That's all I guess

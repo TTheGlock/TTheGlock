@@ -13,8 +13,8 @@ hi
 
 #### A few things that I'm learning / using :
 
-[![learning](https://skillicons.dev/icons?i=bash,powershell,py,rust,md,docker,postgres,linux)](https://skillicons.dev)
+[![learning](https://skillicons.dev/icons?i=bash,powershell,html,css,js,java,py,rust,md,docker,postgres,linux,elasticsearch,git,nodejs)](https://skillicons.dev)
 
 #### A few things I would like to learn more about :
 
-[![learning](https://skillicons.dev/icons?i=html,css,js,ts,kubernetes,grafana,elasticsearch,nginx)](https://skillicons.dev)
+[![learning](https://skillicons.dev/icons?i=ts,kubernetes,kafka,scala)](https://skillicons.dev)
